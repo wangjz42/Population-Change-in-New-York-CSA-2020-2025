@@ -1,0 +1,218 @@
+year,geoid,county,state,cbsa,geography,population,prev_year,change,pct_change,source
+2019,09120,Greater Bridgeport Planning Region,Connecticut,"Bridgeport-Stamford-Danbury, CT",county,326385,,,,2010-2020 intercensal July 1 estimate (sum of towns)
+2019,09190,Western Connecticut Planning Region,Connecticut,"Bridgeport-Stamford-Danbury, CT",county,619555,,,,2010-2020 intercensal July 1 estimate (sum of towns)
+2019,34003,Bergen County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,954514,,,,2010-2020 intercensal July 1 estimate
+2019,34013,Essex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,859732,,,,2010-2020 intercensal July 1 estimate
+2019,34017,Hudson County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,722083,,,,2010-2020 intercensal July 1 estimate
+2019,34019,Hunterdon County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,128874,,,,2010-2020 intercensal July 1 estimate
+2019,34021,Mercer County,New Jersey,"Trenton-Princeton, NJ",county,386203,,,,2010-2020 intercensal July 1 estimate
+2019,34023,Middlesex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,860690,,,,2010-2020 intercensal July 1 estimate
+2019,34025,Monmouth County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,642427,,,,2010-2020 intercensal July 1 estimate
+2019,34027,Morris County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,507995,,,,2010-2020 intercensal July 1 estimate
+2019,34029,Ocean County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,629979,,,,2010-2020 intercensal July 1 estimate
+2019,34031,Passaic County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,523141,,,,2010-2020 intercensal July 1 estimate
+2019,34035,Somerset County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,344449,,,,2010-2020 intercensal July 1 estimate
+2019,34037,Sussex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,144398,,,,2010-2020 intercensal July 1 estimate
+2019,34039,Union County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,574479,,,,2010-2020 intercensal July 1 estimate
+2019,36005,Bronx County,New York,"New York-Newark-Jersey City, NY-NJ",county,1479222,,,,2010-2020 intercensal July 1 estimate
+2019,36027,Dutchess County,New York,"Kiryas Joel-Poughkeepsie-Newburgh, NY",county,296034,,,,2010-2020 intercensal July 1 estimate
+2019,36047,Kings County,New York,"New York-Newark-Jersey City, NY-NJ",county,2737209,,,,2010-2020 intercensal July 1 estimate
+2019,36059,Nassau County,New York,"New York-Newark-Jersey City, NY-NJ",county,1395123,,,,2010-2020 intercensal July 1 estimate
+2019,36061,New York County,New York,"New York-Newark-Jersey City, NY-NJ",county,1702471,,,,2010-2020 intercensal July 1 estimate
+2019,36071,Orange County,New York,"Kiryas Joel-Poughkeepsie-Newburgh, NY",county,399706,,,,2010-2020 intercensal July 1 estimate
+2019,36079,Putnam County,New York,"New York-Newark-Jersey City, NY-NJ",county,97669,,,,2010-2020 intercensal July 1 estimate
+2019,36081,Queens County,New York,"New York-Newark-Jersey City, NY-NJ",county,2411304,,,,2010-2020 intercensal July 1 estimate
+2019,36085,Richmond County,New York,"New York-Newark-Jersey City, NY-NJ",county,494545,,,,2010-2020 intercensal July 1 estimate
+2019,36087,Rockland County,New York,"New York-Newark-Jersey City, NY-NJ",county,337332,,,,2010-2020 intercensal July 1 estimate
+2019,36103,Suffolk County,New York,"New York-Newark-Jersey City, NY-NJ",county,1524358,,,,2010-2020 intercensal July 1 estimate
+2019,36105,Sullivan County,New York,"Monticello, NY",county,78177,,,,2010-2020 intercensal July 1 estimate
+2019,36111,Ulster County,New York,"Kingston, NY",county,181643,,,,2010-2020 intercensal July 1 estimate
+2019,36119,Westchester County,New York,"New York-Newark-Jersey City, NY-NJ",county,1002976,,,,2010-2020 intercensal July 1 estimate
+2019,42103,Pike County,Pennsylvania,"Hemlock Farms, PA",county,58141,,,,2010-2020 intercensal July 1 estimate
+2019,CSA408,"New York-Newark, NY-NJ-CT-PA",,,CSA total,22420814,,,,Sum of counties
+2020,09120,Greater Bridgeport Planning Region,Connecticut,"Bridgeport-Stamford-Danbury, CT",county,324360,2019,-2025,-0.62,PEP V2025 July 1 estimate
+2020,09190,Western Connecticut Planning Region,Connecticut,"Bridgeport-Stamford-Danbury, CT",county,618740,2019,-815,-0.13,PEP V2025 July 1 estimate
+2020,34003,Bergen County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,953848,2019,-666,-0.07,PEP V2025 July 1 estimate
+2020,34013,Essex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,859934,2019,202,0.02,PEP V2025 July 1 estimate
+2020,34017,Hudson County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,721800,2019,-283,-0.04,PEP V2025 July 1 estimate
+2020,34019,Hunterdon County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,128773,2019,-101,-0.08,PEP V2025 July 1 estimate
+2020,34021,Mercer County,New Jersey,"Trenton-Princeton, NJ",county,386434,2019,231,0.06,PEP V2025 July 1 estimate
+2020,34023,Middlesex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,861248,2019,558,0.06,PEP V2025 July 1 estimate
+2020,34025,Monmouth County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,642385,2019,-42,-0.01,PEP V2025 July 1 estimate
+2020,34027,Morris County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,508211,2019,216,0.04,PEP V2025 July 1 estimate
+2020,34029,Ocean County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,638143,2019,8164,1.3,PEP V2025 July 1 estimate
+2020,34031,Passaic County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,523156,2019,15,0.0,PEP V2025 July 1 estimate
+2020,34035,Somerset County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,344516,2019,67,0.02,PEP V2025 July 1 estimate
+2020,34037,Sussex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,143877,2019,-521,-0.36,PEP V2025 July 1 estimate
+2020,34039,Union County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,573482,2019,-997,-0.17,PEP V2025 July 1 estimate
+2020,36005,Bronx County,New York,"New York-Newark-Jersey City, NY-NJ",county,1461233,2019,-17989,-1.22,PEP V2025 July 1 estimate
+2020,36027,Dutchess County,New York,"Kiryas Joel-Poughkeepsie-Newburgh, NY",county,296309,2019,275,0.09,PEP V2025 July 1 estimate
+2020,36047,Kings County,New York,"New York-Newark-Jersey City, NY-NJ",county,2722259,2019,-14950,-0.55,PEP V2025 July 1 estimate
+2020,36059,Nassau County,New York,"New York-Newark-Jersey City, NY-NJ",county,1390952,2019,-4171,-0.3,PEP V2025 July 1 estimate
+2020,36061,New York County,New York,"New York-Newark-Jersey City, NY-NJ",county,1687033,2019,-15438,-0.91,PEP V2025 July 1 estimate
+2020,36071,Orange County,New York,"Kiryas Joel-Poughkeepsie-Newburgh, NY",county,400973,2019,1267,0.32,PEP V2025 July 1 estimate
+2020,36079,Putnam County,New York,"New York-Newark-Jersey City, NY-NJ",county,97636,2019,-33,-0.03,PEP V2025 July 1 estimate
+2020,36081,Queens County,New York,"New York-Newark-Jersey City, NY-NJ",county,2385541,2019,-25763,-1.07,PEP V2025 July 1 estimate
+2020,36085,Richmond County,New York,"New York-Newark-Jersey City, NY-NJ",county,495122,2019,577,0.12,PEP V2025 July 1 estimate
+2020,36087,Rockland County,New York,"New York-Newark-Jersey City, NY-NJ",county,337429,2019,97,0.03,PEP V2025 July 1 estimate
+2020,36103,Suffolk County,New York,"New York-Newark-Jersey City, NY-NJ",county,1521964,2019,-2394,-0.16,PEP V2025 July 1 estimate
+2020,36105,Sullivan County,New York,"Monticello, NY",county,78461,2019,284,0.36,PEP V2025 July 1 estimate
+2020,36111,Ulster County,New York,"Kingston, NY",county,181304,2019,-339,-0.19,PEP V2025 July 1 estimate
+2020,36119,Westchester County,New York,"New York-Newark-Jersey City, NY-NJ",county,1001451,2019,-1525,-0.15,PEP V2025 July 1 estimate
+2020,42103,Pike County,Pennsylvania,"Hemlock Farms, PA",county,58593,2019,452,0.78,PEP V2025 July 1 estimate
+2020,CSA408,"New York-Newark, NY-NJ-CT-PA",,,CSA total,22345167,2019,-75647,-0.34,Sum of counties
+2021,09120,Greater Bridgeport Planning Region,Connecticut,"Bridgeport-Stamford-Danbury, CT",county,326850,2020,2490,0.77,PEP V2025 July 1 estimate
+2021,09190,Western Connecticut Planning Region,Connecticut,"Bridgeport-Stamford-Danbury, CT",county,624102,2020,5362,0.87,PEP V2025 July 1 estimate
+2021,34003,Bergen County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,955376,2020,1528,0.16,PEP V2025 July 1 estimate
+2021,34013,Essex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,854485,2020,-5449,-0.63,PEP V2025 July 1 estimate
+2021,34017,Hudson County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,703186,2020,-18614,-2.58,PEP V2025 July 1 estimate
+2021,34019,Hunterdon County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,129700,2020,927,0.72,PEP V2025 July 1 estimate
+2021,34021,Mercer County,New Jersey,"Trenton-Princeton, NJ",county,382139,2020,-4295,-1.11,PEP V2025 July 1 estimate
+2021,34023,Middlesex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,861965,2020,717,0.08,PEP V2025 July 1 estimate
+2021,34025,Monmouth County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,645873,2020,3488,0.54,PEP V2025 July 1 estimate
+2021,34027,Morris County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,510240,2020,2029,0.4,PEP V2025 July 1 estimate
+2021,34029,Ocean County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,649331,2020,11188,1.75,PEP V2025 July 1 estimate
+2021,34031,Passaic County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,518136,2020,-5020,-0.96,PEP V2025 July 1 estimate
+2021,34035,Somerset County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,346069,2020,1553,0.45,PEP V2025 July 1 estimate
+2021,34037,Sussex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,145706,2020,1829,1.27,PEP V2025 July 1 estimate
+2021,34039,Union County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,572522,2020,-960,-0.17,PEP V2025 July 1 estimate
+2021,36005,Bronx County,New York,"New York-Newark-Jersey City, NY-NJ",county,1420980,2020,-40253,-2.75,PEP V2025 July 1 estimate
+2021,36027,Dutchess County,New York,"Kiryas Joel-Poughkeepsie-Newburgh, NY",county,297659,2020,1350,0.46,PEP V2025 July 1 estimate
+2021,36047,Kings County,New York,"New York-Newark-Jersey City, NY-NJ",county,2634576,2020,-87683,-3.22,PEP V2025 July 1 estimate
+2021,36059,Nassau County,New York,"New York-Newark-Jersey City, NY-NJ",county,1391787,2020,835,0.06,PEP V2025 July 1 estimate
+2021,36061,New York County,New York,"New York-Newark-Jersey City, NY-NJ",county,1569781,2020,-117252,-6.95,PEP V2025 July 1 estimate
+2021,36071,Orange County,New York,"Kiryas Joel-Poughkeepsie-Newburgh, NY",county,405133,2020,4160,1.04,PEP V2025 July 1 estimate
+2021,36079,Putnam County,New York,"New York-Newark-Jersey City, NY-NJ",county,98272,2020,636,0.65,PEP V2025 July 1 estimate
+2021,36081,Queens County,New York,"New York-Newark-Jersey City, NY-NJ",county,2328520,2020,-57021,-2.39,PEP V2025 July 1 estimate
+2021,36085,Richmond County,New York,"New York-Newark-Jersey City, NY-NJ",county,494101,2020,-1021,-0.21,PEP V2025 July 1 estimate
+2021,36087,Rockland County,New York,"New York-Newark-Jersey City, NY-NJ",county,339874,2020,2445,0.72,PEP V2025 July 1 estimate
+2021,36103,Suffolk County,New York,"New York-Newark-Jersey City, NY-NJ",county,1533742,2020,11778,0.77,PEP V2025 July 1 estimate
+2021,36105,Sullivan County,New York,"Monticello, NY",county,79745,2020,1284,1.64,PEP V2025 July 1 estimate
+2021,36111,Ulster County,New York,"Kingston, NY",county,183636,2020,2332,1.29,PEP V2025 July 1 estimate
+2021,36119,Westchester County,New York,"New York-Newark-Jersey City, NY-NJ",county,1000252,2020,-1199,-0.12,PEP V2025 July 1 estimate
+2021,42103,Pike County,Pennsylvania,"Hemlock Farms, PA",county,60080,2020,1487,2.54,PEP V2025 July 1 estimate
+2021,CSA408,"New York-Newark, NY-NJ-CT-PA",,,CSA total,22063818,2020,-281349,-1.26,Sum of counties
+2022,09120,Greater Bridgeport Planning Region,Connecticut,"Bridgeport-Stamford-Danbury, CT",county,328996,2021,2146,0.66,PEP V2025 July 1 estimate
+2022,09190,Western Connecticut Planning Region,Connecticut,"Bridgeport-Stamford-Danbury, CT",county,626146,2021,2044,0.33,PEP V2025 July 1 estimate
+2022,34003,Bergen County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,956251,2021,875,0.09,PEP V2025 July 1 estimate
+2022,34013,Essex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,855294,2021,809,0.09,PEP V2025 July 1 estimate
+2022,34017,Hudson County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,707743,2021,4557,0.65,PEP V2025 July 1 estimate
+2022,34019,Hunterdon County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,129859,2021,159,0.12,PEP V2025 July 1 estimate
+2022,34021,Mercer County,New Jersey,"Trenton-Princeton, NJ",county,387024,2021,4885,1.28,PEP V2025 July 1 estimate
+2022,34023,Middlesex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,864552,2021,2587,0.3,PEP V2025 July 1 estimate
+2022,34025,Monmouth County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,645026,2021,-847,-0.13,PEP V2025 July 1 estimate
+2022,34027,Morris County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,511860,2021,1620,0.32,PEP V2025 July 1 estimate
+2022,34029,Ocean County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,656066,2021,6735,1.04,PEP V2025 July 1 estimate
+2022,34031,Passaic County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,516941,2021,-1195,-0.23,PEP V2025 July 1 estimate
+2022,34035,Somerset County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,347621,2021,1552,0.45,PEP V2025 July 1 estimate
+2022,34037,Sussex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,145668,2021,-38,-0.03,PEP V2025 July 1 estimate
+2022,34039,Union County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,574934,2021,2412,0.42,PEP V2025 July 1 estimate
+2022,36005,Bronx County,New York,"New York-Newark-Jersey City, NY-NJ",county,1384053,2021,-36927,-2.6,PEP V2025 July 1 estimate
+2022,36027,Dutchess County,New York,"Kiryas Joel-Poughkeepsie-Newburgh, NY",county,297214,2021,-445,-0.15,PEP V2025 July 1 estimate
+2022,36047,Kings County,New York,"New York-Newark-Jersey City, NY-NJ",county,2600751,2021,-33825,-1.28,PEP V2025 July 1 estimate
+2022,36059,Nassau County,New York,"New York-Newark-Jersey City, NY-NJ",county,1388346,2021,-3441,-0.25,PEP V2025 July 1 estimate
+2022,36061,New York County,New York,"New York-Newark-Jersey City, NY-NJ",county,1593919,2021,24138,1.54,PEP V2025 July 1 estimate
+2022,36071,Orange County,New York,"Kiryas Joel-Poughkeepsie-Newburgh, NY",county,407314,2021,2181,0.54,PEP V2025 July 1 estimate
+2022,36079,Putnam County,New York,"New York-Newark-Jersey City, NY-NJ",county,98361,2021,89,0.09,PEP V2025 July 1 estimate
+2022,36081,Queens County,New York,"New York-Newark-Jersey City, NY-NJ",county,2291363,2021,-37157,-1.6,PEP V2025 July 1 estimate
+2022,36085,Richmond County,New York,"New York-Newark-Jersey City, NY-NJ",county,492579,2021,-1522,-0.31,PEP V2025 July 1 estimate
+2022,36087,Rockland County,New York,"New York-Newark-Jersey City, NY-NJ",county,342154,2021,2280,0.67,PEP V2025 July 1 estimate
+2022,36103,Suffolk County,New York,"New York-Newark-Jersey City, NY-NJ",county,1531736,2021,-2006,-0.13,PEP V2025 July 1 estimate
+2022,36105,Sullivan County,New York,"Monticello, NY",county,79868,2021,123,0.15,PEP V2025 July 1 estimate
+2022,36111,Ulster County,New York,"Kingston, NY",county,182546,2021,-1090,-0.59,PEP V2025 July 1 estimate
+2022,36119,Westchester County,New York,"New York-Newark-Jersey City, NY-NJ",county,994313,2021,-5939,-0.59,PEP V2025 July 1 estimate
+2022,42103,Pike County,Pennsylvania,"Hemlock Farms, PA",county,60722,2021,642,1.07,PEP V2025 July 1 estimate
+2022,CSA408,"New York-Newark, NY-NJ-CT-PA",,,CSA total,21999220,2021,-64598,-0.29,Sum of counties
+2023,09120,Greater Bridgeport Planning Region,Connecticut,"Bridgeport-Stamford-Danbury, CT",county,332081,2022,3085,0.94,PEP V2025 July 1 estimate
+2023,09190,Western Connecticut Planning Region,Connecticut,"Bridgeport-Stamford-Danbury, CT",county,630270,2022,4124,0.66,PEP V2025 July 1 estimate
+2023,34003,Bergen County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,964156,2022,7905,0.83,PEP V2025 July 1 estimate
+2023,34013,Essex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,871153,2022,15859,1.85,PEP V2025 July 1 estimate
+2023,34017,Hudson County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,719682,2022,11939,1.69,PEP V2025 July 1 estimate
+2023,34019,Hunterdon County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,130313,2022,454,0.35,PEP V2025 July 1 estimate
+2023,34021,Mercer County,New Jersey,"Trenton-Princeton, NJ",county,391369,2022,4345,1.12,PEP V2025 July 1 estimate
+2023,34023,Middlesex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,873281,2022,8729,1.01,PEP V2025 July 1 estimate
+2023,34025,Monmouth County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,645796,2022,770,0.12,PEP V2025 July 1 estimate
+2023,34027,Morris County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,516902,2022,5042,0.99,PEP V2025 July 1 estimate
+2023,34029,Ocean County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,661368,2022,5302,0.81,PEP V2025 July 1 estimate
+2023,34031,Passaic County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,524011,2022,7070,1.37,PEP V2025 July 1 estimate
+2023,34035,Somerset County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,351042,2022,3421,0.98,PEP V2025 July 1 estimate
+2023,34037,Sussex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,146328,2022,660,0.45,PEP V2025 July 1 estimate
+2023,34039,Union County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,586115,2022,11181,1.94,PEP V2025 July 1 estimate
+2023,36005,Bronx County,New York,"New York-Newark-Jersey City, NY-NJ",county,1380478,2022,-3575,-0.26,PEP V2025 July 1 estimate
+2023,36027,Dutchess County,New York,"Kiryas Joel-Poughkeepsie-Newburgh, NY",county,297451,2022,237,0.08,PEP V2025 July 1 estimate
+2023,36047,Kings County,New York,"New York-Newark-Jersey City, NY-NJ",county,2611893,2022,11142,0.43,PEP V2025 July 1 estimate
+2023,36059,Nassau County,New York,"New York-Newark-Jersey City, NY-NJ",county,1388940,2022,594,0.04,PEP V2025 July 1 estimate
+2023,36061,New York County,New York,"New York-Newark-Jersey City, NY-NJ",county,1631534,2022,37615,2.36,PEP V2025 July 1 estimate
+2023,36071,Orange County,New York,"Kiryas Joel-Poughkeepsie-Newburgh, NY",county,410179,2022,2865,0.7,PEP V2025 July 1 estimate
+2023,36079,Putnam County,New York,"New York-Newark-Jersey City, NY-NJ",county,98110,2022,-251,-0.26,PEP V2025 July 1 estimate
+2023,36081,Queens County,New York,"New York-Newark-Jersey City, NY-NJ",county,2314747,2022,23384,1.02,PEP V2025 July 1 estimate
+2023,36085,Richmond County,New York,"New York-Newark-Jersey City, NY-NJ",county,495182,2022,2603,0.53,PEP V2025 July 1 estimate
+2023,36087,Rockland County,New York,"New York-Newark-Jersey City, NY-NJ",county,346437,2022,4283,1.25,PEP V2025 July 1 estimate
+2023,36103,Suffolk County,New York,"New York-Newark-Jersey City, NY-NJ",county,1533173,2022,1437,0.09,PEP V2025 July 1 estimate
+2023,36105,Sullivan County,New York,"Monticello, NY",county,80413,2022,545,0.68,PEP V2025 July 1 estimate
+2023,36111,Ulster County,New York,"Kingston, NY",county,182956,2022,410,0.22,PEP V2025 July 1 estimate
+2023,36119,Westchester County,New York,"New York-Newark-Jersey City, NY-NJ",county,998335,2022,4022,0.4,PEP V2025 July 1 estimate
+2023,42103,Pike County,Pennsylvania,"Hemlock Farms, PA",county,61524,2022,802,1.32,PEP V2025 July 1 estimate
+2023,CSA408,"New York-Newark, NY-NJ-CT-PA",,,CSA total,22175219,2022,175999,0.8,Sum of counties
+2024,09120,Greater Bridgeport Planning Region,Connecticut,"Bridgeport-Stamford-Danbury, CT",county,336391,2023,4310,1.3,PEP V2025 July 1 estimate
+2024,09190,Western Connecticut Planning Region,Connecticut,"Bridgeport-Stamford-Danbury, CT",county,637721,2023,7451,1.18,PEP V2025 July 1 estimate
+2024,34003,Bergen County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,973477,2023,9321,0.97,PEP V2025 July 1 estimate
+2024,34013,Essex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,891241,2023,20088,2.31,PEP V2025 July 1 estimate
+2024,34017,Hudson County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,731028,2023,11346,1.58,PEP V2025 July 1 estimate
+2024,34019,Hunterdon County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,131097,2023,784,0.6,PEP V2025 July 1 estimate
+2024,34021,Mercer County,New Jersey,"Trenton-Princeton, NJ",county,397329,2023,5960,1.52,PEP V2025 July 1 estimate
+2024,34023,Middlesex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,881620,2023,8339,0.95,PEP V2025 July 1 estimate
+2024,34025,Monmouth County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,648673,2023,2877,0.45,PEP V2025 July 1 estimate
+2024,34027,Morris County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,521355,2023,4453,0.86,PEP V2025 July 1 estimate
+2024,34029,Ocean County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,668395,2023,7027,1.06,PEP V2025 July 1 estimate
+2024,34031,Passaic County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,531117,2023,7106,1.36,PEP V2025 July 1 estimate
+2024,34035,Somerset County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,355122,2023,4080,1.16,PEP V2025 July 1 estimate
+2024,34037,Sussex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,147445,2023,1117,0.76,PEP V2025 July 1 estimate
+2024,34039,Union County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,598743,2023,12628,2.15,PEP V2025 July 1 estimate
+2024,36005,Bronx County,New York,"New York-Newark-Jersey City, NY-NJ",county,1406052,2023,25574,1.85,PEP V2025 July 1 estimate
+2024,36027,Dutchess County,New York,"Kiryas Joel-Poughkeepsie-Newburgh, NY",county,299256,2023,1805,0.61,PEP V2025 July 1 estimate
+2024,36047,Kings County,New York,"New York-Newark-Jersey City, NY-NJ",county,2658657,2023,46764,1.79,PEP V2025 July 1 estimate
+2024,36059,Nassau County,New York,"New York-Newark-Jersey City, NY-NJ",county,1397783,2023,8843,0.64,PEP V2025 July 1 estimate
+2024,36061,New York County,New York,"New York-Newark-Jersey City, NY-NJ",county,1665510,2023,33976,2.08,PEP V2025 July 1 estimate
+2024,36071,Orange County,New York,"Kiryas Joel-Poughkeepsie-Newburgh, NY",county,415088,2023,4909,1.2,PEP V2025 July 1 estimate
+2024,36079,Putnam County,New York,"New York-Newark-Jersey City, NY-NJ",county,98842,2023,732,0.75,PEP V2025 July 1 estimate
+2024,36081,Queens County,New York,"New York-Newark-Jersey City, NY-NJ",county,2367034,2023,52287,2.26,PEP V2025 July 1 estimate
+2024,36085,Richmond County,New York,"New York-Newark-Jersey City, NY-NJ",county,499572,2023,4390,0.89,PEP V2025 July 1 estimate
+2024,36087,Rockland County,New York,"New York-Newark-Jersey City, NY-NJ",county,354829,2023,8392,2.42,PEP V2025 July 1 estimate
+2024,36103,Suffolk County,New York,"New York-Newark-Jersey City, NY-NJ",county,1543330,2023,10157,0.66,PEP V2025 July 1 estimate
+2024,36105,Sullivan County,New York,"Monticello, NY",county,80901,2023,488,0.61,PEP V2025 July 1 estimate
+2024,36111,Ulster County,New York,"Kingston, NY",county,183095,2023,139,0.08,PEP V2025 July 1 estimate
+2024,36119,Westchester County,New York,"New York-Newark-Jersey City, NY-NJ",county,1009165,2023,10830,1.08,PEP V2025 July 1 estimate
+2024,42103,Pike County,Pennsylvania,"Hemlock Farms, PA",county,62264,2023,740,1.2,PEP V2025 July 1 estimate
+2024,CSA408,"New York-Newark, NY-NJ-CT-PA",,,CSA total,22492132,2023,316913,1.43,Sum of counties
+2025,09120,Greater Bridgeport Planning Region,Connecticut,"Bridgeport-Stamford-Danbury, CT",county,337697,2024,1306,0.39,PEP V2025 July 1 estimate
+2025,09190,Western Connecticut Planning Region,Connecticut,"Bridgeport-Stamford-Danbury, CT",county,640482,2024,2761,0.43,PEP V2025 July 1 estimate
+2025,34003,Bergen County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,977026,2024,3549,0.36,PEP V2025 July 1 estimate
+2025,34013,Essex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,896379,2024,5138,0.58,PEP V2025 July 1 estimate
+2025,34017,Hudson County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,735033,2024,4005,0.55,PEP V2025 July 1 estimate
+2025,34019,Hunterdon County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,131781,2024,684,0.52,PEP V2025 July 1 estimate
+2025,34021,Mercer County,New Jersey,"Trenton-Princeton, NJ",county,399289,2024,1960,0.49,PEP V2025 July 1 estimate
+2025,34023,Middlesex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,883335,2024,1715,0.19,PEP V2025 July 1 estimate
+2025,34025,Monmouth County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,651035,2024,2362,0.36,PEP V2025 July 1 estimate
+2025,34027,Morris County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,524251,2024,2896,0.56,PEP V2025 July 1 estimate
+2025,34029,Ocean County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,673746,2024,5351,0.8,PEP V2025 July 1 estimate
+2025,34031,Passaic County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,531624,2024,507,0.1,PEP V2025 July 1 estimate
+2025,34035,Somerset County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,356486,2024,1364,0.38,PEP V2025 July 1 estimate
+2025,34037,Sussex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,148063,2024,618,0.42,PEP V2025 July 1 estimate
+2025,34039,Union County,New Jersey,"New York-Newark-Jersey City, NY-NJ",county,601863,2024,3120,0.52,PEP V2025 July 1 estimate
+2025,36005,Bronx County,New York,"New York-Newark-Jersey City, NY-NJ",county,1406332,2024,280,0.02,PEP V2025 July 1 estimate
+2025,36027,Dutchess County,New York,"Kiryas Joel-Poughkeepsie-Newburgh, NY",county,300708,2024,1452,0.49,PEP V2025 July 1 estimate
+2025,36047,Kings County,New York,"New York-Newark-Jersey City, NY-NJ",county,2653963,2024,-4694,-0.18,PEP V2025 July 1 estimate
+2025,36059,Nassau County,New York,"New York-Newark-Jersey City, NY-NJ",county,1398939,2024,1156,0.08,PEP V2025 July 1 estimate
+2025,36061,New York County,New York,"New York-Newark-Jersey City, NY-NJ",county,1664862,2024,-648,-0.04,PEP V2025 July 1 estimate
+2025,36071,Orange County,New York,"Kiryas Joel-Poughkeepsie-Newburgh, NY",county,417669,2024,2581,0.62,PEP V2025 July 1 estimate
+2025,36079,Putnam County,New York,"New York-Newark-Jersey City, NY-NJ",county,99028,2024,186,0.19,PEP V2025 July 1 estimate
+2025,36081,Queens County,New York,"New York-Newark-Jersey City, NY-NJ",county,2358182,2024,-8852,-0.37,PEP V2025 July 1 estimate
+2025,36085,Richmond County,New York,"New York-Newark-Jersey City, NY-NJ",county,501290,2024,1718,0.34,PEP V2025 July 1 estimate
+2025,36087,Rockland County,New York,"New York-Newark-Jersey City, NY-NJ",county,357397,2024,2568,0.72,PEP V2025 July 1 estimate
+2025,36103,Suffolk County,New York,"New York-Newark-Jersey City, NY-NJ",county,1546090,2024,2760,0.18,PEP V2025 July 1 estimate
+2025,36105,Sullivan County,New York,"Monticello, NY",county,80586,2024,-315,-0.39,PEP V2025 July 1 estimate
+2025,36111,Ulster County,New York,"Kingston, NY",county,183330,2024,235,0.13,PEP V2025 July 1 estimate
+2025,36119,Westchester County,New York,"New York-Newark-Jersey City, NY-NJ",county,1015743,2024,6578,0.65,PEP V2025 July 1 estimate
+2025,42103,Pike County,Pennsylvania,"Hemlock Farms, PA",county,62808,2024,544,0.87,PEP V2025 July 1 estimate
+2025,CSA408,"New York-Newark, NY-NJ-CT-PA",,,CSA total,22535017,2024,42885,0.19,Sum of counties
